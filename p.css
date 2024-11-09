@@ -1,0 +1,19 @@
+
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+.card-text{
+    color: #1e1e1e;
+}
+  .navbar{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  .b {
+    border: 1px solid rgb(255, 255, 255);
+}
+hr {
+    border: .5px solid white;
+}
